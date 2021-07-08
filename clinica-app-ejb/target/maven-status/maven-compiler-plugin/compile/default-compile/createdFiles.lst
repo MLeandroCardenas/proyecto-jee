@@ -1,0 +1,17 @@
+edu\unicundi\service\IDetalleConsultaService.class
+edu\unicundi\repo\imp\ConsultaRepoImp.class
+edu\unicundi\service\imp\ConsultaServiceImp.class
+edu\unicundi\repo\IDetalleConsultaRepo.class
+edu\unicundi\repo\imp\DetalleConsultaRepoImp.class
+edu\unicundi\exception\ObjetcRequiredException.class
+edu\unicundi\entity\DetalleConsulta.class
+edu\unicundi\entity\Consulta_.class
+edu\unicundi\entity\DetalleConsulta_.class
+edu\unicundi\dto\ConsultaDto.class
+edu\unicundi\dto\DetalleConsultaDto.class
+edu\unicundi\entity\Consulta.class
+edu\unicundi\exception\NotFoundModelException.class
+edu\unicundi\service\IConsultaService.class
+edu\unicundi\exception\ExceptionWrapper.class
+edu\unicundi\service\imp\DetalleConsultaServiceImp.class
+edu\unicundi\repo\IConsultaRepo.class

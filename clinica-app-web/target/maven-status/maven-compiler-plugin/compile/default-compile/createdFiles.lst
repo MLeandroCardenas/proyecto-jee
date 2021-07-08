@@ -1,0 +1,7 @@
+edu\unicundi\exception\NotAllowedExceptionHandler.class
+org\netbeans\rest\application\config\ApplicationConfig.class
+edu\unicundi\controller\ConsultaController.class
+edu\unicundi\exception\ConstraintViolationHandler.class
+edu\unicundi\controller\DetalleConsultaController.class
+edu\unicundi\exception\ExceptionHandler.class
+org\netbeans\rest\application\config\CorsFilter.class

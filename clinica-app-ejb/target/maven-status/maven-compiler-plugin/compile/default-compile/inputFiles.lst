@@ -1,0 +1,15 @@
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\dto\DetalleConsultaDto.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\exception\ExceptionWrapper.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\entity\DetalleConsulta.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\entity\Consulta.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\repo\IDetalleConsultaRepo.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\service\imp\ConsultaServiceImp.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\service\imp\DetalleConsultaServiceImp.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\exception\NotFoundModelException.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\exception\ObjetcRequiredException.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\repo\imp\DetalleConsultaRepoImp.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\service\IDetalleConsultaService.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\repo\imp\ConsultaRepoImp.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\repo\IConsultaRepo.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\service\IConsultaService.java
+C:\Users\ASUS-PC\Documents\NetBeansProjects\clinica-app\clinica-app-ejb\src\main\java\edu\unicundi\dto\ConsultaDto.java
